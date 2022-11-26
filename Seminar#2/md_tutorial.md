@@ -69,3 +69,4 @@ Content Cell | Content Cell
 Пример:
 
 [![Прикол](https://dbmast.ru/wp-content/uploads/2014/03/button-css-3d.png)](https://thumbs.gfycat.com/PastSoggyDragon-size_restricted.gif)
+
