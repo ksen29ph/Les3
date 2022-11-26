@@ -15,3 +15,13 @@
 Пример:
 ![альтернативный текст](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Carina_Nebula.jpg/
 240px-Carina_Nebula.jpg)
+
+
+Чтобы добавить картинку-ссылку, необходимо модифицировать блок-схему выше следующим образом:
+```
+[![альтернативный текст](ссылка на изображение)](ссылка на изображение или страницу, на которую перейдем, если кликнем по первому изображению)
+```
+
+Пример:
+
+[![Прикол](https://dbmast.ru/wp-content/uploads/2014/03/button-css-3d.png)](https://thumbs.gfycat.com/PastSoggyDragon-size_restricted.gif)
